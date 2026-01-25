@@ -1,0 +1,4 @@
+- "e" denotes "evolved"
+- this is the "base station" that all mobile terminals attach to
+- all user traffic pass through this node
+- all control signals to and from the mobile device pass through this node 

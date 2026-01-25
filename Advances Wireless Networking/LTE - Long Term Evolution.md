@@ -1,0 +1,6 @@
+- The evolution of cellular systems
+- LTE focus on two things 
+	- 1. Enhancement and Optimisation of the Universal Terrestrial Radio Access (E-UTRA)
+		- this part is referred as LTE and focus is on the physical layer issue
+	- 2. Enhancement of the system architecture towards all IP networking Evolved Packet Core (EPC)
+		- this part is often referred as SAE (System Architecture Enhancement)

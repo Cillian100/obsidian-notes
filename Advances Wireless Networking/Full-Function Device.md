@@ -1,0 +1,1 @@
+A Full-Function Device (FFD) is defined as a device that implements the full protocol set, acts as a network coordinator, and communicates directly with other devices in a star network topology in a [[Wireless PAN]].

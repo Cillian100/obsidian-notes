@@ -1,0 +1,1 @@
+- The layer that controls the hardware responsible for interaction with the wired or wireless transmission medium.

@@ -1,0 +1,4 @@
+- In modern crpyto systems, the messages are represented by numerical values prior to being encrpyted and transmitted. The encryption processes are mathematical operations that turn the input numerical values into output numerical values. Building, analysing and attacking these cryptosystems require mathematical tools. The most important of these is number theory, especially the theory of congruence.
+
+## Divisibility 
+- Let a and b be integers with a!=0, we say that a divides b, if there is an integer k such that b=ak. This is denoted by a|b. Another way to express this is that b is a multiple of a.

@@ -1,0 +1,2 @@
+https://developer.nvidia.com/discover/convolution#:~:text=Convolution%20is%20a%20mathematical%20operation,form%20a%20transformed%20feature%20map.
+https://www.songho.ca/dsp/convolution/convolution.html#definition

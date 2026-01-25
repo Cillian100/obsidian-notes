@@ -1,0 +1,5 @@
+- Route and forward packets between RAN and core
+- Maintain data paths between eNodeBs and PDN-GW
+- Acts as user plane mobility anchor points for handover in LTE network and across other 3GPP technologies 
+- Performs paging in idle mode
+- Lawful interception of data plane 

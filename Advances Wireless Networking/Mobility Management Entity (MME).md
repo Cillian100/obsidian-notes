@@ -1,0 +1,9 @@
+- Provides much of the signalling and control to manage UE
+- Gateway SGW selection on initial UE attach
+- User tracking and locatoin management in idle mode and initiate paging
+- Responsible for assignment of network resources to UE
+- Involved in bearer setup/teardown/reassignment 
+- User authentication through interaction with Home Subscription Server (HSS)
+	- database with all user related data & subscription information
+- Enforces roaming policies 
+- Each MME manages thousands of eNodeB's

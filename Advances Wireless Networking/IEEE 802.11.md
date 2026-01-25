@@ -1,0 +1,1 @@
+- IEEE 802.11 is part of the IEEE set of local area network (LAN) technical standards and specifies the set of [[Medium Access Control (MAC)]] and physical layer (PHY) protocols for implementing [[Wireless LAN]] computer communication. 

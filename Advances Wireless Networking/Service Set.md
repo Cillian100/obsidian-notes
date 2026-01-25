@@ -1,0 +1,2 @@
+- In [[IEEE 802.11]] [[Wireless LAN]] standards a service set is a group of wireless network devices which share a Service Set Identifier (SSID).
+- A service set is either a Basic Service Set (BSS) or an Extended Service Set (ESS). 
