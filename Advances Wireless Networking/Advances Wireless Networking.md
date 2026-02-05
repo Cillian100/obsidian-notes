@@ -1,7 +1,7 @@
 Week 1:
 - [[0G - 4G]]
 - [[5G]]
-- [[eNodeB]]
+- [[Computer Science/Advances Wireless Networking/Week 1/eNodeB]]
 - [[LTE - Long Term Evolution]]
 - [[Mobility Management Entity (MME)]]
 - [[Network Slicing]]
@@ -9,5 +9,17 @@ Week 1:
 
 Week 2:
 - [[Network Function Virtualization]]
-- [[Software Defined Networking]]
 - [[HyperVisor]]
+- [[Networking Planes]]
+- [[Open Flow]]
+- [[Software Defined Networking]]
+
+
+General:
+- [[CSMA]]
+- [[IEEE 802.11]]
+- [[IEEE 802.15.4]]
+- [[Network Slicing]]
+- [[Wireless LAN 802.11 Service Set]]
+- [[Wireless Networks]]
+- [[ZigBee]]

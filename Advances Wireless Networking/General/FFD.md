@@ -1,0 +1,1 @@
+- a device that implements the full protocol set, acts a a network coordinator and communicates directly with other devices in a star network in a personal area network.

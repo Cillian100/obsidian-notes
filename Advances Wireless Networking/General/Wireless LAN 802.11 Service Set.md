@@ -1,0 +1,6 @@
+- A service set describes how a group of wireless devices communicate with each other. 
+- **BSS:** the basic service set is the fundamental building block of an [[IEEE 802.11]] wireless networks, consisting of a single Access Point connected to one or more wireless clients.
+- **ESS:** the extended service set is an [[IEEE 802.11]] wireless network toplogy that connects multiple Access Points to form a single larger network.
+	- it is a service set that usually contains two or more BSS.
+	- the whole area covered by ESS is known as ESA (extended service area) - all clients or users that are present within the same ESA can communicate with each other even if they are present in different BSA (basic service area).
+- **SSID:** service set identifier is a unique identifier assigned to a wireless network.

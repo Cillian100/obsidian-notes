@@ -44,3 +44,4 @@ https://www.ietf.org/proceedings/88/slides/slides-88-opsawg-6.pdf
 https://portal.etsi.org/NFV/NFV_White_Paper.pdf?_gl=1*199j2g3*_ga*MTA4OTcwMjI5LjE3Njg5OTYzMjU.*_ga_L34WJL1P2Z*czE3Njg5OTYzMjQkbzEkZzEkdDE3Njg5OTY4MjAkajUkbDAkaDA
 https://www.ibm.com/think/topics/network-functions-virtualization#:~:text=NFV%20MANO%20is%20the%20basic,performance%20of%20virtualized%20network%20functions
 https://www.tatacommunications.com/knowledge-base/mcc/network-functions-virtualisation-guide
+https://info.support.huawei.com/info-finder/encyclopedia/en/NFV.html

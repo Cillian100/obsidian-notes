@@ -1,0 +1,3 @@
+- A tool for creating generic classes or functions. This allows us to write code that works for any data type without rewriting it for each type.
+	- avoid code duplication by allowing one function or class to work with multiple data types, mainly allowing generic functions and classes.
+	- provides type safety unlike void* pointers or macros and can be specialised for specific data types when needed.

@@ -1,0 +1,1 @@
+- **Control Plane:** the control plane is responsible for managing network routing protocols which enable communication between devices. 

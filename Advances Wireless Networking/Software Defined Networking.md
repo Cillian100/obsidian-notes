@@ -1,3 +1,0 @@
-- An architectural approach that virtualizes networks by separating the control plane from the data plane. 
-- **Data Plane:** all the activities involving data packets sent by the end-user belong to this plane.
-- **Control Plane:** all activities necessary to perform data plan activities but do not involve end-user data packets belong to this plane.

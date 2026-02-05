@@ -1,2 +1,0 @@
-- An IEEE 802.15.4 based specification used to create personal are networks with small low power digital radios.
-- Zigbee is intended to be simpler and less expensive than other wireless personal area networks such as bluetooth or more general wireless networking such as wi-fi.

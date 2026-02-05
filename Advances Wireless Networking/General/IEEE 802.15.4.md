@@ -6,4 +6,7 @@
 	- the non-beacon enabled MAC is an asychronous carrier-sense multiple access (CSMA) MAC, which is very similar to the IEEE 802.11 MAC
 	- the beacon-enabled MAC allows two different MAC periods:
 	1. a synchronised - CSMA MAC period 
-	2. a time slotted, content free MAC period 
+	2. a time slotted, content free MAC period
+
+
+- The physical medium is access through a [[CSMA]]/CA access method. Networks which are not using beaconing mechanisms utilise an unslotted variation which is based on the listening of the median, leveraged by a random exponential backoff algorithm; acknowledgements do not adhere to this discipline. 
